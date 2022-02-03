@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="notEnterCity">You not enter city!</string>
+    <string name="speedWindmh">m/h</string>
+    <string name="wind">Wind</string>
+    <string name="rain">Rain</string>
+    <string name="percent">%</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="volumeRainSnow">мм</string>
+    <string name="rain_snow">Rain/Snow</string>
+    <string name="sunset">Sunset</string>
+    <string name="quenstionCity">Your City?</string>
+    <string name="humidity">Humidity</string>
+    <string name="clouds">Clouds</string>
+    <string name="finBtn">Find</string>
+</resources>
