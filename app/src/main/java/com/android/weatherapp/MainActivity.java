@@ -253,7 +253,7 @@ public class MainActivity extends AppCompatActivity {
                             imageStatusWeather.setImageResource(R.drawable.sun);
                             backgroundWeather.setBackgroundResource(R.drawable.bg_sun);
                         }
-                        else if (mainStatusWeather.equals("Smoke"))
+                        else if (mainStatusWeather.equals("Smoke") || mainStatusWeather.equals("Mist") )
                         {
                             imageStatusWeather.setImageResource(R.drawable.smoke);
                             backgroundWeather.setBackgroundResource(R.drawable.bg_mits);
